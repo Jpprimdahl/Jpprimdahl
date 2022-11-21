@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32F722&width=435&lines=The+five+boxing+wizards+jump+quickly">
+<img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32F722&width=435&lines=The+five+boxing+wizards+jump+quickly">
+<\picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32F722&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
